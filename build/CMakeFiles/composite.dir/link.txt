@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/composite.dir/structural/composite/composite.cpp.o -o composite 

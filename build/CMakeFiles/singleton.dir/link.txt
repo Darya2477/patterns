@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/singleton.dir/generative/singleton/singleton.cpp.o -o singleton 

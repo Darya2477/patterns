@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/commanda.dir/behavioral/commanda/commanda.cpp.o -o commanda 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/decorator.dir/structural/decorator/decorator.cpp.o -o decorator 

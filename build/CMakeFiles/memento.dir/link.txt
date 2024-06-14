@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/memento.dir/behavioral/memento/memento.cpp.o -o memento 

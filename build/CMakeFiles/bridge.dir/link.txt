@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bridge.dir/structural/bridge/bridge.cpp.o -o bridge 

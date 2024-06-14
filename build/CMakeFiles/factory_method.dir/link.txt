@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/factory_method.dir/generative/factory_method/factory_method.cpp.o -o factory_method 
